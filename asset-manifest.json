@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/eiminbotany/static/css/main.3d10672c.css",
+    "main.js": "/eiminbotany/static/js/main.05ba5076.js",
+    "static/media/nyanlin.png": "/eiminbotany/static/media/nyanlin.12eb9d23573e9cc8d87d.png",
+    "index.html": "/eiminbotany/index.html",
+    "main.3d10672c.css.map": "/eiminbotany/static/css/main.3d10672c.css.map",
+    "main.05ba5076.js.map": "/eiminbotany/static/js/main.05ba5076.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d10672c.css",
+    "static/js/main.05ba5076.js"
+  ]
+}
