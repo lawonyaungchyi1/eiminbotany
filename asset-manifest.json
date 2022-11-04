@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/botany-em/static/css/main.3d10672c.css",
-    "main.js": "/botany-em/static/js/main.b8d04117.js",
-    "static/media/nyanlin.png": "/botany-em/static/media/nyanlin.12eb9d23573e9cc8d87d.png",
-    "index.html": "/botany-em/index.html",
-    "main.3d10672c.css.map": "/botany-em/static/css/main.3d10672c.css.map",
-    "main.b8d04117.js.map": "/botany-em/static/js/main.b8d04117.js.map"
+    "main.css": "/eiminbotany/static/css/main.3d10672c.css",
+    "main.js": "/eiminbotany/static/js/main.8629fee9.js",
+    "static/media/nyanlin.png": "/eiminbotany/static/media/nyanlin.12eb9d23573e9cc8d87d.png",
+    "index.html": "/eiminbotany/index.html",
+    "main.3d10672c.css.map": "/eiminbotany/static/css/main.3d10672c.css.map",
+    "main.8629fee9.js.map": "/eiminbotany/static/js/main.8629fee9.js.map"
   },
   "entrypoints": [
     "static/css/main.3d10672c.css",
-    "static/js/main.b8d04117.js"
+    "static/js/main.8629fee9.js"
   ]
 }
